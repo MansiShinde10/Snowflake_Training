@@ -1,5 +1,3 @@
-
-
 --- Load JSON ----
 CREATE OR REPLACE DATABASE DEMO_DB;
 
